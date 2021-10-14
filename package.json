@@ -1,6 +1,6 @@
 {
-    "name": "theme-quietlight-vsc",
-    "displayName": "Quiet Light for VSC",
+    "name": "theme-quietlight-peace",
+    "displayName": "Quiet Light Peace",
     "description": "Light, peaceful coding (from the original designer).",
     "repository": {
         "type": "git",
@@ -11,8 +11,8 @@
         "theme": "light"
     },
     "icon": "icon.png",
-    "version": "1.1.0",
-    "publisher": "onecrayon",
+    "version": "1.0.0",
+    "publisher": "Evi",
     "engines": {
         "vscode": "^1.9.0"
     },
@@ -22,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Quiet Light for VSC",
+                "label": "Quiet Light Peace",
                 "uiTheme": "vs",
                 "path": "./themes/QuietLight.json"
             }
